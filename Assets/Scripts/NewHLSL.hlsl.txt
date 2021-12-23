@@ -1,0 +1,4 @@
+﻿#ifndef #SCRIPTNAME#_INCLUDED
+#define #SCRIPTNAME#_INCLUDED
+
+#endif // !#SCRIPTNAME#_INCLUDED
